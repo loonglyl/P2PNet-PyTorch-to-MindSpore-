@@ -5,3 +5,9 @@ ckpt/
 checkpoint/
 
 data_root/
+
+runs/
+
+vene/
+
+rank0/

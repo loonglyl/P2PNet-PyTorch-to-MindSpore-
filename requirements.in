@@ -1,0 +1,8 @@
+mindspore
+numpy
+opencv_python
+Pillow
+scipy
+tensorboardX
+torch
+torchvision
