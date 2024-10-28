@@ -1,0 +1,7 @@
+*.pth
+
+ckpt/
+
+checkpoint/
+
+data_root/
